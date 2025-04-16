@@ -6,13 +6,13 @@ Welcome to my license visualizations.
 
 This chart shows the number of licenses issued for each License Type.
 
-![License Type Chart](plot1.html)
+![License Type Chart](chart1.html)
 
 ## Interactive License Type Chart
 
 Click below to view the interactive chart.
 
-[Interactive License Type Chart](plot2.html)
+[Interactive License Type Chart](chart2.html)
 
 
 
