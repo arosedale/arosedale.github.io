@@ -6,7 +6,7 @@ Welcome to my license visualizations.
 
 This chart shows the number of licenses issued for each License Type.
 
-![License Type Chart](chart1.html)
+<iframe src="chart1.html" width="800" height="600"></iframe>
 
 In my first visualization, I created a bar chart that displays the number of licenses issued for each License Type. For my x-axis, I encoded the nominal field License Type. For my y-axis, I used a quantitative count aggregation (count()). This allowed me to show how many records fall into each category. For my design, I chose to color each bar by License Type using Altair’s default categorical color scheme. This way, observers can tell each license type apar,t and it is easy to compare at a glance.
 
@@ -16,7 +16,7 @@ For my analysis, I did not filter out any rows and performed a group transformat
 
 Click below to view the interactive chart.
 
-[Interactive License Type Chart](chart2.html)
+<iframe src="chart2.html" width="800" height="600"></iframe>
 
 For the second plot, I built an interactive line chart showing how the number of licenses issued changes across years for different license types.
 
